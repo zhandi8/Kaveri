@@ -1,0 +1,3 @@
+user_name,company,department,sys_domain,first_name,gender,preferred_language,last_name,location,manager,middle_name,mobile_phone,roles,source,state,street,sys_mod_count,vip,name,email,active
+di.zhang3,ACME South America,Product Management,global,Di,Male,,Zhang,"SHS quadra 5, Bloco E., Brasilia",,,,,,,,4,FALSE,Zhang Di,abel.tuter@example.com,TRUE
+xing.zheng2,,,global,Xing,,,Zheng,,,,(555) 555-0004,,,,,1,FALSE,Zheng Xing,abraham.lincoln@example.com,TRUE
